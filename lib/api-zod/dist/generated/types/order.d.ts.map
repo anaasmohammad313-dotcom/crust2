@@ -1,0 +1,1 @@
+{"version":3,"file":"order.d.ts","sourceRoot":"","sources":["../../../src/generated/types/order.ts"],"names":[],"mappings":"AAAA;;;;;;GAMG;AACH,OAAO,KAAK,EAAE,aAAa,EAAE,MAAM,iBAAiB,CAAC;AACrD,OAAO,KAAK,EAAE,YAAY,EAAE,MAAM,gBAAgB,CAAC;AAEnD,MAAM,MAAM,KAAK,GAAG,YAAY,GAAG;IACjC,KAAK,EAAE,aAAa,EAAE,CAAC;CACxB,CAAC"}
